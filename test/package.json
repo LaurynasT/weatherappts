@@ -16,7 +16,7 @@
     "axios": "^1.7.9",
     "axios-cache-interceptor": "^1.6.2",
     "bulma": "^1.0.2",
-    "tsc": "^2.0.4",
+    "http-server": "^14.1.1",
     "typescript-toastify": "^1.0.4"
   }
 }
