@@ -2,9 +2,9 @@
 
 
 # Setup
-Clone the repository: `git clone https://github.com/LaurynasT/weatherapp.git`
+Clone the repository: `[git clone https://github.com/LaurynasT/weatherappts.git`
 
-`cd weatherapp`
+`cd weatherappts/test`
 
 # Install dependencies:
 
